@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I'm Myles Fowlds and I'm studying R for my bachelor's degree in Actuarial Studies
 <!--
 **fowldsm20/fowldsm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
